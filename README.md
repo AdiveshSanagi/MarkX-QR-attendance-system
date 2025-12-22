@@ -1,4 +1,5 @@
 # 📌 **QR-Based Attendance System – PHP | MySQL | QR Code | XAMPP**
+# version 0.1 - v0.1
 
 A smart and efficient QR-based attendance tracking system built using **PHP, MySQL, JavaScript, and QR Code technology**.
 This system allows **teachers** to generate QR codes for classes and **students** to scan and mark attendance instantly.
